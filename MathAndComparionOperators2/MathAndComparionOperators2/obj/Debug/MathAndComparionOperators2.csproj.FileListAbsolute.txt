@@ -1,0 +1,7 @@
+C:\Users\egarc\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MathAndComparionOperators2\MathAndComparionOperators2\bin\Debug\MathAndComparionOperators2.exe.config
+C:\Users\egarc\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MathAndComparionOperators2\MathAndComparionOperators2\bin\Debug\MathAndComparionOperators2.exe
+C:\Users\egarc\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MathAndComparionOperators2\MathAndComparionOperators2\bin\Debug\MathAndComparionOperators2.pdb
+C:\Users\egarc\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MathAndComparionOperators2\MathAndComparionOperators2\obj\Debug\MathAndComparionOperators2.csproj.AssemblyReference.cache
+C:\Users\egarc\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MathAndComparionOperators2\MathAndComparionOperators2\obj\Debug\MathAndComparionOperators2.csproj.CoreCompileInputs.cache
+C:\Users\egarc\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MathAndComparionOperators2\MathAndComparionOperators2\obj\Debug\MathAndComparionOperators2.exe
+C:\Users\egarc\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MathAndComparionOperators2\MathAndComparionOperators2\obj\Debug\MathAndComparionOperators2.pdb
