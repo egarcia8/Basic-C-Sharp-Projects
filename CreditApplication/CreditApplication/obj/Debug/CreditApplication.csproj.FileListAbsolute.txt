@@ -1,0 +1,7 @@
+C:\Users\egarc\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\CreditApplication\CreditApplication\bin\Debug\CreditApplication.exe.config
+C:\Users\egarc\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\CreditApplication\CreditApplication\bin\Debug\CreditApplication.exe
+C:\Users\egarc\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\CreditApplication\CreditApplication\bin\Debug\CreditApplication.pdb
+C:\Users\egarc\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\CreditApplication\CreditApplication\obj\Debug\CreditApplication.csproj.AssemblyReference.cache
+C:\Users\egarc\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\CreditApplication\CreditApplication\obj\Debug\CreditApplication.csproj.CoreCompileInputs.cache
+C:\Users\egarc\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\CreditApplication\CreditApplication\obj\Debug\CreditApplication.exe
+C:\Users\egarc\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\CreditApplication\CreditApplication\obj\Debug\CreditApplication.pdb
