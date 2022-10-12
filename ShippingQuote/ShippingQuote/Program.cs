@@ -18,6 +18,7 @@ namespace ShippingQuote
             if (packWeight > 50) // if condition states if packWeight is greater than 50 the error message will display
             {
                 Console.WriteLine("Package to heavy to be shipped via Package Express. Have a good day!");
+                Console.ReadLine();
                 return; //the program ends
             }
             else
