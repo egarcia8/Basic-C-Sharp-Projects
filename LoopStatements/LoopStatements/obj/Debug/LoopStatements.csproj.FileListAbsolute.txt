@@ -1,0 +1,7 @@
+C:\Users\egarc\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\LoopStatements\LoopStatements\bin\Debug\LoopStatements.exe.config
+C:\Users\egarc\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\LoopStatements\LoopStatements\bin\Debug\LoopStatements.exe
+C:\Users\egarc\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\LoopStatements\LoopStatements\bin\Debug\LoopStatements.pdb
+C:\Users\egarc\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\LoopStatements\LoopStatements\obj\Debug\LoopStatements.csproj.AssemblyReference.cache
+C:\Users\egarc\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\LoopStatements\LoopStatements\obj\Debug\LoopStatements.csproj.CoreCompileInputs.cache
+C:\Users\egarc\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\LoopStatements\LoopStatements\obj\Debug\LoopStatements.exe
+C:\Users\egarc\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\LoopStatements\LoopStatements\obj\Debug\LoopStatements.pdb
