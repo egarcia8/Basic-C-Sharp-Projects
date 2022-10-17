@@ -69,23 +69,27 @@ namespace ConsoleAppLoops
             List<string> fruits = new List<string> { "apples", "mangos", "grapes", "strawberries", "peaches", "kiwis" };
             //declaring a boolean variable isCorrect to false to utilize to break the loop
             bool isCorrect = false;
-            while (!isCorrect) //while isCorrect is false the while loop will continue
+            
+            //Ask the user to input text to search for in the list
+            Console.WriteLine("\n\tGuess one of my favorite fruits.");
+            string userGuess = Console.ReadLine();
+            //A loop that iterates through the list and then prints the index of the
+            //list item that contains matching text on the screen.
+            foreach (string fruit in fruits)
             {
-                //Ask the user to input text to search for in the list
-                Console.WriteLine("\n\tGuess one of my favorite fruits.");
-                string userGuess = Console.ReadLine();
-                //A loop that iterates through the list and then prints the index of the
-                //list item that contains matching text on the screen.
-                foreach (string fruit in fruits)
+                if (userGuess == fruit)
                 {
-                    if (userGuess == fruit)
-                    {
-                        Console.WriteLine("You guessed correctly.\n" + userGuess + " was element " + fruits.IndexOf(fruit) + " on my list.");
-                        isCorrect = true;
-                        break;
-                    }
+                    Console.WriteLine("You guessed correctly.\n" + userGuess + " was element " + fruits.IndexOf(fruit) + " on my list.");
+                    isCorrect = true;
+                    break;
                 }
             }
+            //if a match is not found the program exits out of the loop and a message is displayed to user
+            if(!isCorrect)
+            {
+                Console.WriteLine("That is not one of my favorite fruits.");
+            }
+            
 
 
 
