@@ -1,0 +1,7 @@
+C:\Users\egarc\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ExceptionHandlingConsoleApp\ExceptionHandlingConsoleApp\bin\Debug\ExceptionHandlingConsoleApp.exe.config
+C:\Users\egarc\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ExceptionHandlingConsoleApp\ExceptionHandlingConsoleApp\bin\Debug\ExceptionHandlingConsoleApp.exe
+C:\Users\egarc\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ExceptionHandlingConsoleApp\ExceptionHandlingConsoleApp\bin\Debug\ExceptionHandlingConsoleApp.pdb
+C:\Users\egarc\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ExceptionHandlingConsoleApp\ExceptionHandlingConsoleApp\obj\Debug\ExceptionHandlingConsoleApp.csproj.AssemblyReference.cache
+C:\Users\egarc\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ExceptionHandlingConsoleApp\ExceptionHandlingConsoleApp\obj\Debug\ExceptionHandlingConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\egarc\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ExceptionHandlingConsoleApp\ExceptionHandlingConsoleApp\obj\Debug\ExceptionHandlingConsoleApp.exe
+C:\Users\egarc\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ExceptionHandlingConsoleApp\ExceptionHandlingConsoleApp\obj\Debug\ExceptionHandlingConsoleApp.pdb
