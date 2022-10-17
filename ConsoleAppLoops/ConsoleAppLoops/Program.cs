@@ -95,7 +95,7 @@ namespace ConsoleAppLoops
             //Ask the user to select text to search for in the list
             Console.WriteLine("\n\tDo you share a birth month with someone in my family?\nWhat is your birth month?");
             string userMonth = Console.ReadLine();
-            userMonth = userMonth.ToLower();
+            userMonth = userMonth.ToLower(); //changed userMonth to lowercase since list values are case sensitive
             //declaring a boolean variable isFound to false to utilize to break the loop
             bool isFound = false;
             //Create a loop that iterates through the list and then displays the indices of the items matching the 
