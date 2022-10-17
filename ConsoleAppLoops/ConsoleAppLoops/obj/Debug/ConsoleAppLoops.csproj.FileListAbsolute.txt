@@ -1,0 +1,7 @@
+C:\Users\egarc\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConsoleAppLoops\ConsoleAppLoops\bin\Debug\ConsoleAppLoops.exe.config
+C:\Users\egarc\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConsoleAppLoops\ConsoleAppLoops\bin\Debug\ConsoleAppLoops.exe
+C:\Users\egarc\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConsoleAppLoops\ConsoleAppLoops\bin\Debug\ConsoleAppLoops.pdb
+C:\Users\egarc\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConsoleAppLoops\ConsoleAppLoops\obj\Debug\ConsoleAppLoops.csproj.AssemblyReference.cache
+C:\Users\egarc\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConsoleAppLoops\ConsoleAppLoops\obj\Debug\ConsoleAppLoops.csproj.CoreCompileInputs.cache
+C:\Users\egarc\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConsoleAppLoops\ConsoleAppLoops\obj\Debug\ConsoleAppLoops.exe
+C:\Users\egarc\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConsoleAppLoops\ConsoleAppLoops\obj\Debug\ConsoleAppLoops.pdb
