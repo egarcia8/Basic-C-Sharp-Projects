@@ -1,0 +1,7 @@
+C:\Users\egarc\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\SchoolInfo\SchoolInfo\bin\Debug\SchoolInfo.exe.config
+C:\Users\egarc\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\SchoolInfo\SchoolInfo\bin\Debug\SchoolInfo.exe
+C:\Users\egarc\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\SchoolInfo\SchoolInfo\bin\Debug\SchoolInfo.pdb
+C:\Users\egarc\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\SchoolInfo\SchoolInfo\obj\Debug\SchoolInfo.csproj.AssemblyReference.cache
+C:\Users\egarc\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\SchoolInfo\SchoolInfo\obj\Debug\SchoolInfo.csproj.CoreCompileInputs.cache
+C:\Users\egarc\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\SchoolInfo\SchoolInfo\obj\Debug\SchoolInfo.exe
+C:\Users\egarc\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\SchoolInfo\SchoolInfo\obj\Debug\SchoolInfo.pdb
