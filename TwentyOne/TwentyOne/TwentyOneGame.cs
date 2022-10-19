@@ -6,16 +6,20 @@ using System.Threading.Tasks;
 
 namespace TwentyOne
 {
-    class TwentyOneGame : Game
+    class TwentyOneGame : Game, IWalkAway
     {
         public override void Play()
         {
             throw new NotImplementedException();
         }
-        public override void ListPlayers()
+        public override void ListPlayers() //inherited from virtual method
         {
-            Console.WriteLine("21 Players:");
-            base.ListPlayers();
+            Console.WriteLine("21 Players:"); //added customization
+            base.ListPlayers(); //inherited from game class
+        }
+        public void WalkAway(Player player)
+        {
+            throw new NotImplementedException();
         }
     }
 }
