@@ -1,0 +1,7 @@
+C:\Users\egarc\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\OverloadOperators\OverloadOperators\bin\Debug\OverloadOperators.exe.config
+C:\Users\egarc\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\OverloadOperators\OverloadOperators\bin\Debug\OverloadOperators.exe
+C:\Users\egarc\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\OverloadOperators\OverloadOperators\bin\Debug\OverloadOperators.pdb
+C:\Users\egarc\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\OverloadOperators\OverloadOperators\obj\Debug\OverloadOperators.csproj.AssemblyReference.cache
+C:\Users\egarc\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\OverloadOperators\OverloadOperators\obj\Debug\OverloadOperators.csproj.CoreCompileInputs.cache
+C:\Users\egarc\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\OverloadOperators\OverloadOperators\obj\Debug\OverloadOperators.exe
+C:\Users\egarc\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\OverloadOperators\OverloadOperators\obj\Debug\OverloadOperators.pdb

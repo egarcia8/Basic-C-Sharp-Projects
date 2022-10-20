@@ -10,15 +10,22 @@ namespace TwentyOne
     {
         static void Main(string[] args)
         {
-            
+
             ////Card card = new Card() { Face = "King", Suit = "Spades" };  //object initialization
             //TwentyOneGame game = new TwentyOneGame();
             //game.Players = new List<string> { "Jesse", "Bill", "Joe" };
             //game.ListPlayers();
-           
+
             //Console.ReadLine();
+            Game game = new TwentyOneGame();
+            game.Players = new List<Player>();
+            Player player = new Player();
+            player.Name = "Jesse";
+            game += player;
+            game -= player;
+
             Deck deck = new Deck();  //here instantiated the object deck
-            deck.Shuffle();
+            deck.Shuffle(3);
 
             foreach (Card card in deck.Cards)
             {
