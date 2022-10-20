@@ -17,13 +17,15 @@ namespace TwentyOne
             //game.ListPlayers();
 
             //Console.ReadLine();
-            Game game = new TwentyOneGame();
-            game.Players = new List<Player>();
-            Player player = new Player();
-            player.Name = "Jesse";
-            game += player;
-            game -= player;
+            //Game game = new TwentyOneGame();
+            //game.Players = new List<Player>();
+            //Player player = new Player();
+            //player.Name = "Jesse";
+            //game += player;
+            //game -= player;
 
+            //Player<Card> player = new Player<Card>(); //generics example
+           
             Deck deck = new Deck();  //here instantiated the object deck
             deck.Shuffle(3);
 

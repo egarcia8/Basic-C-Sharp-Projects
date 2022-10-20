@@ -13,7 +13,6 @@ namespace MethodExample
         {
             //Ask the user to input two numbers, one at a time.
             //Let them know they need not enter anything for the second number.
-
             Console.WriteLine("Please enter the size of your first class."); 
             int class1 = Convert.ToInt32(Console.ReadLine());
 
