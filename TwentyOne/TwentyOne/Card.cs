@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TwentyOne
 {
-    public class Card
+    public struct Card
     {
         //the card class has property of data type string called Suit and you can get or set this property
         //it is public to be accessible to other parts of the program
