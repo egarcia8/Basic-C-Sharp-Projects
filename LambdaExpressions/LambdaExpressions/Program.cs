@@ -40,7 +40,7 @@ namespace LambdaExpressions
                 Console.WriteLine(joe.firstName + " " + joe.lastName);
             }
 
-            //created a new list of all employees with the first name “Joe” using a lambda expression
+            //created a new list of all employees with the first name “Joe” using a lambda expression **Where() produces a list
             foreach (Employee employee in employees.Where(e => e.firstName == "Joe").ToList()) 
             {
                 Console.WriteLine(employee.firstName + " " + employee.lastName);
