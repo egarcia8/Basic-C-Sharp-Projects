@@ -1,0 +1,7 @@
+C:\Users\egarc\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\DateTIme\DateTIme\bin\Debug\DateTIme.exe.config
+C:\Users\egarc\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\DateTIme\DateTIme\bin\Debug\DateTIme.exe
+C:\Users\egarc\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\DateTIme\DateTIme\bin\Debug\DateTIme.pdb
+C:\Users\egarc\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\DateTIme\DateTIme\obj\Debug\DateTIme.csproj.AssemblyReference.cache
+C:\Users\egarc\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\DateTIme\DateTIme\obj\Debug\DateTIme.csproj.CoreCompileInputs.cache
+C:\Users\egarc\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\DateTIme\DateTIme\obj\Debug\DateTIme.exe
+C:\Users\egarc\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\DateTIme\DateTIme\obj\Debug\DateTIme.pdb

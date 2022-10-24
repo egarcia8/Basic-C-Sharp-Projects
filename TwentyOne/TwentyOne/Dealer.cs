@@ -18,8 +18,10 @@ namespace TwentyOne
             Hand.Add(Deck.Cards.First()); //adding to the list Hand
             string card = string.Format(Deck.Cards.First().ToString() + "\n"); //writing what card is added
             Console.WriteLine(card);
+            //adds cards dealt to text file, true indicates that you want to append some text to the file
             using (StreamWriter file = new StreamWriter(@"C:\Users\egarc\Logs\log.txt", true))
             {
+                file.WriteLine(DateTime.Now); //can use to log exactly when something happened
                 file.WriteLine(card);
             } //using statement allows for it to be disposed from memory when done
                 Deck.Cards.RemoveAt(0); //removing card from hand
