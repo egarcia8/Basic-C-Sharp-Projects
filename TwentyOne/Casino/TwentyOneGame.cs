@@ -3,10 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Casino.Interfaces;
 
-namespace TwentyOne
+namespace Casino.TwentyOne
 {
-    class TwentyOneGame : Game, IWalkAway
+    public class TwentyOneGame : Game, IWalkAway
     {
         public TwentyOneDealer Dealer { get; set; }
 
@@ -63,8 +64,10 @@ namespace TwentyOne
                         foreach (KeyValuePair<Player, int> entry in Bets)
                         {
                             Dealer.Balance += entry.Value;
+                            return;
                         }
-                        return;
+
+                        
                     }
                 }
             }
@@ -129,8 +132,9 @@ namespace TwentyOne
                     Console.WriteLine("{0} won {1}!", entry.Key.Name, entry.Value); //access dictionary entry by calling the key then the value
                     Players.Where(x => x.Name == entry.Key.Name).First().Balance += (entry.Value * 2); //(entry.Value *2) gives teh player his bet back and his winnings
                     Dealer.Balance -= entry.Value;
+                    return;
                 }
-                return;
+                
             }
             foreach ( Player player in Players)
             {

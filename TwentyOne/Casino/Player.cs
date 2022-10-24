@@ -4,10 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TwentyOne
+namespace Casino
 {
     public class Player
     {
+        public Player(string name) : this(name, 100) //create constructor call chain - reuse code by inheriting from previous constructor
+        {
+
+        }
         public Player(string name, int beginningBalance) //constructor to assign to object when initialized
         {
             //taking the parameters and assigning them to properties in the class
@@ -21,7 +25,7 @@ namespace TwentyOne
         public string Name { get; set; }
         public bool isActivelyPlaying { get; set; }
         public bool Stay { get; set; }
-
+        public Guid Id { get; set; }
         public bool Bet(int amount)
         {
             if (Balance - amount < 0)
