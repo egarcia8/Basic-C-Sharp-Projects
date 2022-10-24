@@ -40,6 +40,46 @@ namespace ExceptionHandlingConsoleApp
             
             
             
+            try
+            {
+                Console.WriteLine("Please enter your age.");
+                int age = Convert.ToInt32(Console.ReadLine());
+                if (age <= 0)
+                {
+                    throw new AgeException();
+                }
+                DateTime currentYear = DateTime.Now;
+
+                int yearBorn = currentYear.Year - age;
+                Console.WriteLine("You were born in {0}.", yearBorn);
+                Console.ReadLine();
+            }
+            catch (AgeException)
+            {
+                Console.WriteLine("You must enter a number greater than zero.");
+                Console.ReadLine();
+                return;
+            }
+            catch (Exception)
+            {
+                Console.WriteLine("That is not your age.");
+                Console.ReadLine();
+                return;
+            }
+            finally
+            {
+                Console.WriteLine("Please enter your age.");
+                int age = Convert.ToInt32(Console.ReadLine());
+                DateTime currentYear = DateTime.Now;
+                int yearBorn = currentYear.Year - age;
+                Console.WriteLine("You were born in {0}.", yearBorn);
+                Console.ReadLine();
+            }
+
+
+
+
+
         }
     }
 }
