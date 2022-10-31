@@ -103,9 +103,30 @@ namespace CarInsurance.Controllers
         {
             if (ModelState.IsValid)
             {
-                db.Entry(insuree).State = EntityState.Modified;
-                db.SaveChanges();
-                return RedirectToAction("Index");
+                using (InsuranceEntities db = new InsuranceEntities())
+                {
+                    var currentYear = DateTime.Now;
+                    var age = currentYear.Year - insuree.DateOfBirth.Year;
+
+                    decimal quote = GetMonthlyTotalByAge(age) + GetMonthlyTotalByCarYear(insuree.CarYear) + GetMonthlyTotalByMakeAndModel(insuree.CarMake, insuree.CarModel) + GetMonthlyTotalBySpeedingTicket(insuree.SpeedingTickets);
+
+                    if (insuree.CoverageType)
+                    {
+                        quote *= 1.50M;
+                    }
+
+                    if (insuree.DUI)
+                    {
+                        quote *= 1.25M;
+                    }
+                    decimal roundedQuote = Math.Round(quote, 2);
+                    insuree.Quote = roundedQuote;
+
+
+                    db.Entry(insuree).State = EntityState.Modified;
+                    db.SaveChanges();
+                    return RedirectToAction("Index");
+                }
             }
             return View(insuree);
         }
