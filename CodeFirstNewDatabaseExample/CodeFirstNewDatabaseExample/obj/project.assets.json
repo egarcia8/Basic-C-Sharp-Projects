@@ -1031,9 +1031,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\egarc\\OneDrive\\Documents\\GitHub\\Basic-C-Sharp-Projects\\CodeFirstNewDatabaseExample\\CodeFirstNewDatabaseExample\\CodeFirstNewDatabaseExample.csproj",
-      "projectName": "CodeFirstNewDatabaseExample",
-      "projectPath": "C:\\Users\\egarc\\OneDrive\\Documents\\GitHub\\Basic-C-Sharp-Projects\\CodeFirstNewDatabaseExample\\CodeFirstNewDatabaseExample\\CodeFirstNewDatabaseExample.csproj",
+      "projectUniqueName": "C:\\Users\\egarc\\OneDrive\\Documents\\GitHub\\Basic-C-Sharp-Projects\\CodeFirstNewDatabaseExample\\CodeFirstNewDatabaseExample\\StudentTeacherDatabase.csproj",
+      "projectName": "StudentTeacherDatabase",
+      "projectPath": "C:\\Users\\egarc\\OneDrive\\Documents\\GitHub\\Basic-C-Sharp-Projects\\CodeFirstNewDatabaseExample\\CodeFirstNewDatabaseExample\\StudentTeacherDatabase.csproj",
       "packagesPath": "C:\\Users\\egarc\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\egarc\\OneDrive\\Documents\\GitHub\\Basic-C-Sharp-Projects\\CodeFirstNewDatabaseExample\\CodeFirstNewDatabaseExample\\obj\\",
       "projectStyle": "PackageReference",

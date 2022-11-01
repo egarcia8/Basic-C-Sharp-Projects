@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Data.Entity;
 
-namespace CodeFirstNewDatabaseExample
+namespace StudentTeacherDatabase
 {
     class Program
     {
