@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="DotNetCoreChallenges20221031144747" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\egarc\\OneDrive\\Documents\\GitHub\\Basic-C-Sharp-Projects\\DotNetCoreChallenges\\DotNetCoreChallenges\\obj\\Release\\netcoreapp3\.1\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>

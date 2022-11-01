@@ -1,0 +1,12 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center text-primary">
+    <h2 class="display-4">Hello!</h2>
+    @{ 
+        var time = DateTime.Now.ToShortTimeString();
+
+    } 
+    <p>The time is: @time</p>
+</div>
