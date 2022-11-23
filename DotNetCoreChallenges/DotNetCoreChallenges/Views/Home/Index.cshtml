@@ -4,9 +4,112 @@
 
 <div class="text-center text-primary">
     <h2 class="display-4">Hello!</h2>
-    @{ 
+    @{
         var time = DateTime.Now.ToShortTimeString();
 
-    } 
+    }
     <p>The time is: @time</p>
 </div>
+
+
+<div class="container blogpostIndex-Container">
+
+    @foreach (var item in Model)
+    {
+        <div class="row">
+            <div class="col">
+                <div class="card mb-3" style="max-width: 1080px;">
+                    <div class="row g-0">
+                        <div class="col-md-6">
+                            <img class="img-fluid" src="~/Content/images/BlogPostDefault.jpg" alt="default image" />
+                        </div>
+                        <div class="col-md-6">
+                            <div class="card-body text-truncate-container">
+                                <p class="card-text">
+                                    <small class="font-weight-bold">
+                                        @Html.DisplayFor(modelItem => item.Author)
+                                    </small>
+                                    <small class="text-muted">
+                                        @Html.DisplayFor(modelItem => item.Posted)
+                                    </small>
+                                </p>
+                                <h5 class="card-title">@Html.DisplayFor(modelItem => item.Title)</h5>
+                                <p class="card-text">
+                                    @Html.DisplayFor(modelItem => item.Content)
+                                </p>
+                            </div>
+                            <div>
+                                @Html.ActionLink(" Edit", "Edit", new { id = item.BlogPostId }, new { @class = "btn btn-edit fas fa-edit" })
+                                @Html.ActionLink(" Details", "Details", new { id = item.BlogPostId }, new { @class = "btn btn-details fas fa-info" })
+                                @Html.ActionLink(" Delete", "Delete", new { id = item.BlogPostId }, new { @class = "btn btn-delete fas fa-trash" })
+                                <!--Button trigger modal-->
+                                <button type="button" id="myBtn" class="btn btn-delete fas fa-trash" data-bs-toggle="modal" data-mdb-target="#exampleModal">
+                                    Delete Modal
+                                </button>
+
+                            </div>
+                            <!--Modal-->
+                            <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                <div class="modal-dialog">
+                                    <div class="modal-content modalContent">
+                                        <div class="modal-header">
+                                            <h2 class="modal-title fs-5" id="exampleModalLabel">Delete?</h2>
+                                        </div>
+                                        <div class="modal-body">
+                                            <p>Are you sure you would like to delete this post?</p>
+                                        </div>
+                                        <div class="modal-footer">
+                                            <button type="button" class="btn btn-cancel" data-bs-dismiss="modal" data-bs-target="#exampleModal">Cancel</button>
+                                            @*<button type="button" class="btn btn-confirm">Confirm</button>*@
+                                            @Html.ActionLink("Delete", "Delete", new { id = item.BlogPostId }, new { @class = "btn btn-confirm" })
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!--End of Modal-->
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    }
+
+</div>
+
+<!--registering an event handler, calls the modal method-->
+<script>
+    $(document).ready(function () {
+        // Open modal on click
+        $("#myBtn").click(function () {
+            $("#exampleModal").modal("show");
+            // Close modal on button click
+            $(".btn-cancel").click(function () {
+                $("#exampleModal").modal('hide');
+            })
+        });
+    });
+</script>
+
+ /*****Delete Modal on Index Page**********/
+
+.modalContent {
+    background-color: white;
+    color: var(--secondary-color--dark);
+}
+
+.btn-cancel {
+    background-color: var(--secondary-color);
+    color: var(--light-color);
+    border: none;
+    margin: 10px;
+    padding: 8px;
+    border-radius: 8px;
+}
+
+.btn-confirm {
+    background-color: var(--main-color);
+    color: white;
+    margin: 5px;
+    padding: 7px;
+    border-radius: 8px;

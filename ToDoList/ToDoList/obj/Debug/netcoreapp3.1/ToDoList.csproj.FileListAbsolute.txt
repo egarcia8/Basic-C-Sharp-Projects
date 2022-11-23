@@ -1,0 +1,14 @@
+C:\Users\egarc\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.csproj.AssemblyReference.cache
+C:\Users\egarc\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\egarc\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.AssemblyInfoInputs.cache
+C:\Users\egarc\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.AssemblyInfo.cs
+C:\Users\egarc\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.csproj.CoreCompileInputs.cache
+C:\Users\egarc\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\ToDoList.exe
+C:\Users\egarc\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\ToDoList.deps.json
+C:\Users\egarc\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\ToDoList.runtimeconfig.json
+C:\Users\egarc\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\ToDoList.runtimeconfig.dev.json
+C:\Users\egarc\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\ToDoList.dll
+C:\Users\egarc\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\ToDoList.pdb
+C:\Users\egarc\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.dll
+C:\Users\egarc\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.pdb
+C:\Users\egarc\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.genruntimeconfig.cache
