@@ -1,7 +1,0 @@
-C:\Users\egarc\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConstructorChain\ConstructorChain\bin\Debug\ConstructorChain.exe.config
-C:\Users\egarc\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConstructorChain\ConstructorChain\bin\Debug\ConstructorChain.exe
-C:\Users\egarc\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConstructorChain\ConstructorChain\bin\Debug\ConstructorChain.pdb
-C:\Users\egarc\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConstructorChain\ConstructorChain\obj\Debug\ConstructorChain.csproj.AssemblyReference.cache
-C:\Users\egarc\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConstructorChain\ConstructorChain\obj\Debug\ConstructorChain.csproj.CoreCompileInputs.cache
-C:\Users\egarc\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConstructorChain\ConstructorChain\obj\Debug\ConstructorChain.exe
-C:\Users\egarc\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConstructorChain\ConstructorChain\obj\Debug\ConstructorChain.pdb

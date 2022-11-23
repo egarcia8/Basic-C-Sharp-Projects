@@ -1,7 +1,0 @@
-C:\Users\egarc\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
-C:\Users\egarc\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
-C:\Users\egarc\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
-C:\Users\egarc\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConsoleApp1\ConsoleApp1\obj\Debug\MethodExample.csproj.AssemblyReference.cache
-C:\Users\egarc\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConsoleApp1\ConsoleApp1\obj\Debug\MethodExample.csproj.CoreCompileInputs.cache
-C:\Users\egarc\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
-C:\Users\egarc\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
