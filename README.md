@@ -19,10 +19,10 @@ This project is an MVC web application that mimics a car insurance website. It t
 This is an MVC web application that utilizes Entity Framework 6 for data access and a Code First workflow. 
 
 <h3>Anonymous Income Comparison</h3>
-This is console application that takes user's input to calcuate a comparison between to users' incomes. 
+This is console application that takes user's input to calcuate a comparison between two users' incomes. 
 
 <h3>To Do List</h3>
-In this conosole application I created a basic to do list focusing on encapsulation. 
+In this conosole application, I created a basic to do list focusing on encapsulation. 
 
 <h2>Technical Skills</h2>
 <ul>
